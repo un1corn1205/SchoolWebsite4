@@ -1,0 +1,67 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+
+li {
+    font-size: 17px;
+    text-shadow: 1px 1px 8px #8ADEDF;
+}
+
+.navbar-brand {
+    text-shadow: 1px 1px 8px #8ADEDF;
+}
+
+img {
+    border-radius: 50px;
+    border-width: 5px;
+    border-color: gold;
+    border-style: solid;
+    padding: 5px;
+    width: 900px;
+    height: 500px;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    padding: 15px;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+
+.unfixed_images {
+    height: 250px;
+}
+
+.onlineschoollbl {
+   margin-right:400px;
+    margin-top:50px;
+}
+
+div{
+    display:inline-block;
+}
